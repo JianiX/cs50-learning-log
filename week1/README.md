@@ -9,6 +9,7 @@
 - Moving from Scratch to C is a big jump
 - Debugging felt hard but satisfying once solved
 - Beginning to understand how low-level logic connects to real engineering work
+- Wrote my first C program today — simple but exciting to see code run!
 
 ### Files
 (Add your week1 code here later)
