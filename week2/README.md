@@ -7,7 +7,7 @@
 - Basic memory concepts and how data is stored sequentially
 
 ## Reflections
-(To be filled as I progress)
+- Practiced computing string length manually and learned how strings are stored as character arrays.
 
 ## Files
 (Add Week 2 code files here later)
