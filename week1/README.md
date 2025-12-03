@@ -10,6 +10,7 @@
 - Debugging felt hard but satisfying once solved
 - Beginning to understand how low-level logic connects to real engineering work
 - Wrote my first C program today — simple but exciting to see code run!
+- Wrote a simple input/output program today and started understanding how user interaction works in C.
 
 ### Files
 (Add your week1 code here later)
