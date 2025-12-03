@@ -19,4 +19,4 @@
 - Learned how to combine nested loops to draw shapes (pyramid), which improved my understanding of row-column logic.
 
 ### Files
-(Add your week1 code here later)
+- [progress.md](progress.md): Summary of everything I learned and built in Week 1.
