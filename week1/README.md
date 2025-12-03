@@ -15,6 +15,7 @@
 - Practiced using a for loop to print numbers and began understanding how repeated logic works in C.
 - Built a mini calculator using conditionals and user input — first time writing a small end-to-end program!
 - Practiced writing a while loop and understood the difference between for and while loops.
+- Learned how nested loops work by generating a simple multiplication table.
 
 ### Files
 (Add your week1 code here later)
