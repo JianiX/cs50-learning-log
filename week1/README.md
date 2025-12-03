@@ -16,6 +16,7 @@
 - Built a mini calculator using conditionals and user input — first time writing a small end-to-end program!
 - Practiced writing a while loop and understood the difference between for and while loops.
 - Learned how nested loops work by generating a simple multiplication table.
+- Learned how to combine nested loops to draw shapes (pyramid), which improved my understanding of row-column logic.
 
 ### Files
 (Add your week1 code here later)
