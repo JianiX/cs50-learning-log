@@ -13,6 +13,7 @@
 - Wrote a simple input/output program today and started understanding how user interaction works in C.
 - Practiced writing my first function in C (square function) and started understanding how logic flows through a program.
 - Practiced using a for loop to print numbers and began understanding how repeated logic works in C.
+- Built a mini calculator using conditionals and user input — first time writing a small end-to-end program!
 
 ### Files
 (Add your week1 code here later)
