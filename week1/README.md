@@ -11,6 +11,7 @@
 - Beginning to understand how low-level logic connects to real engineering work
 - Wrote my first C program today — simple but exciting to see code run!
 - Wrote a simple input/output program today and started understanding how user interaction works in C.
+- Practiced writing my first function in C (square function) and started understanding how logic flows through a program.
 
 ### Files
 (Add your week1 code here later)
