@@ -1,8 +1,11 @@
-# CS50 Notes Overview
+# Overview Notes
 
-A collection of conceptual summaries, questions I had, and clarifications I found helpful during CS50.
+## Why I'm learning CS50
 
-This will eventually include:
-- Concepts that were initially confusing
-- Debugging tricks that worked for me
-- Comparisons between CS concepts and my day-to-day technical recruiting work
+I’m starting CS50 because I want a solid and disciplined foundation in computer science.  
+As a Senior TA Manager working with AI, RL, LLM, and Gameplay Engineering teams,  
+I often evaluate highly technical roles, and I want to truly understand the systems behind them.  
+This course is my first structured step toward building real programming fundamentals  
+and preparing myself for a future master’s degree in Computer Science.
+
+More notes will be added here as I progress week by week.
