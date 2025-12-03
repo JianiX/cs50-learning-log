@@ -1,0 +1,4 @@
+Scratch project ideas:
+1. A small animation showing how a recruiting pipeline works.
+2. A simple game where a character collects "skills" to pass interviews.
+3. A visual demo of loops and events for understanding logic flow.
